@@ -10,7 +10,6 @@ This project is a React-based dashboard application with various components for 
 - [Themes and Styling](#themes-and-styling)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Components
 
