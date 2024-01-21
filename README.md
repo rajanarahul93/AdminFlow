@@ -84,6 +84,3 @@ Include screenshots or GIFs of your application here to showcase its appearance 
 
 Contributions are welcome! Feel free to open issues or pull requests for improvements or additional features.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
