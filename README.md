@@ -77,7 +77,7 @@ The application supports light and dark themes, along with various color options
 
 ## Screenshots
 
-Include screenshots or GIFs of your application here to showcase its appearance and functionality.
+Included screenshots of the project
 
 ## Contributing
 
